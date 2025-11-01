@@ -1,64 +1,82 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hey there, I'm Prachi Modi!</h1>
+<!-- 🌸 Animated & Colorful GitHub Profile README for Prachi Modi -->
+
+<h1 align="center">✨ Hey there, I'm <span style="color:#FF69B4;">Prachi Modi</span> 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=25&center=true&vCenter=true&lines=Computer+Science+Student;Learning+C+Language;Curious+and+Creative+Mind;Code+.+Learn+.+Grow" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&color=FF69B4&center=true&vCenter=true&width=550&lines=Computer+Science+Student;C+Language+Learner;Curious+and+Creative+Mind;Always+Learning+New+Things;Code+.+Learn+.+Grow+💫" alt="Typing Animation">
 </p>
 
 ---
 
-### 🌸 About Me
-- 🎓 I'm a **Computer Science student** passionate about coding and technology.  
-- 💻 Currently learning and building with **C language**.  
-- 🌱 Exploring **data structures**, **algorithms**, and how computers work under the hood.  
-- 🤝 Open to collaborating and learning from others.  
-- ✨ “Curiosity drives my code.”
+### 💖 About Me  
+🎓 I’m a **Computer Science student** exploring the endless world of coding and creativity.  
+💻 Passionate about **C programming**, **problem-solving**, and learning how computers work.  
+🌱 I’m currently learning **Data Structures & Algorithms** and experimenting with fun coding projects.  
+☕ I love connecting with other learners and sharing ideas.  
+💫 *Turning curiosity into creativity, one line of code at a time.*
 
 ---
 
-### 🛠️ Tech Stack
-💡 **Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-🧰 **Tools:**  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-4A4A55?style=for-the-badge&logo=gnu&logoColor=white)
-
-💻 **Operating Systems:**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
+### 🎨 Tech Palette
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachi791&show_icons=true&theme=tokyonight" alt="Prachi's GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi791&theme=tokyonight" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi791&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GCC-4A4A55?style=for-the-badge&logo=gnu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🌈 Fun Animations & Stats
+
 <p align="center">
-  <a href="https://github.com/prachi791"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=prachi791&theme=dracula&no-frame=true&no-bg=false&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachi791&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi791&theme=radical&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi791&layout=compact&theme=radical&title_color=FF69B4&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+
+### 🦋 Aesthetic Divider
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="600" alt="divider">
+</p>
+
+---
+
+### 📫 Connect With Me 🌟
+<p align="center">
+  <a href="https://github.com/prachi791"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <i>"Code. Learn. Grow."</i> ⭐
+  <img src="https://i.imgur.com/LyHic3i.gif" width="80">
+</p>
+
+<p align="center">
+  🌸 <strong>“Code. Learn. Grow.”</strong> 🌸  
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </p>
