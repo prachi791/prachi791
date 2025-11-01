@@ -1,89 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prachi Modi | Profile</title>
-  <style>
-    body {
-      font-family: "Poppins", sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-    }
+<!-- Animated Header -->
+<h1 align="center">👋 Hey there, I'm Prachi Modi!</h1>
 
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      background: #fff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=25&center=true&vCenter=true&lines=Computer+Science+Student;Learning+C+Language;Curious+and+Creative+Mind;Code+.+Learn+.+Grow" alt="Typing Animation">
+</p>
 
-    h1, h2 {
-      color: #0078d7;
-    }
+---
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+### 🌸 About Me
+- 🎓 I'm a **Computer Science student** passionate about coding and technology.  
+- 💻 Currently learning and building with **C language**.  
+- 🌱 Exploring **data structures**, **algorithms**, and how computers work under the hood.  
+- 🤝 Open to collaborating and learning from others.  
+- ✨ “Curiosity drives my code.”
 
-    ul li::before {
-      content: "💠 ";
-    }
+---
 
-    a {
-      color: #0078d7;
-      text-decoration: none;
-    }
+### 🛠️ Tech Stack
+💡 **Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-    a:hover {
-      text-decoration: underline;
-    }
+🧰 **Tools:**  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-4A4A55?style=for-the-badge&logo=gnu&logoColor=white)
 
-    .footer {
-      text-align: center;
-      margin-top: 40px;
-      font-style: italic;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>👋 Hi there, I'm Prachi Modi!</h1>
-    <p>🎓 <strong>Computer Science Student</strong> | 💻 Learning and building with <strong>C language</strong></p>
-    <p>🌱 Currently exploring programming concepts and improving my problem-solving skills.</p>
+💻 **Operating Systems:**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>I'm a CS student passionate about coding and technology.</li>
-      <li>Learning the fundamentals of software development and computer science.</li>
-      <li>Focusing on mastering <strong>C programming</strong> and exploring <strong>data structures & algorithms</strong>.</li>
-      <li>Love collaborating and learning from others!</li>
-    </ul>
+---
 
-    <h2>🛠️ Tech Stack</h2>
-    <ul>
-      <li><strong>Languages:</strong> C, Python (learning), HTML, CSS</li>
-      <li><strong>Tools:</strong> VS Code, Git, GitHub, GCC</li>
-      <li><strong>Operating Systems:</strong> Windows, Linux</li>
-    </ul>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachi791&show_icons=true&theme=tokyonight" alt="Prachi's GitHub stats">
+</p>
 
-    <h2>📫 Connect with Me</h2>
-    <ul>
-      <li>💼 GitHub: <a href="https://github.com/prachi791" target="_blank">@prachi791</a></li>
-      <li>🌐 LinkedIn: <a href="#" target="_blank">Add your LinkedIn profile link</a></li>
-      <li>✉️ Email: <a href="mailto:yourname@email.com">Add your email here</a></li>
-    </ul>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi791&theme=tokyonight" alt="GitHub Streak">
+</p>
 
-    <div class="footer">
-      ⭐ "Code. Learn. Grow."
-    </div>
-  </div>
-</body>
-</html>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi791&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/prachi791"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>"Code. Learn. Grow."</i> ⭐
+</p>
