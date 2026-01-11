@@ -27,6 +27,16 @@
 
 ---
 
+## 📊 GitHub Activity
+
+![Prachi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=react-dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prachi791)
+
+---
+
 ## 📌 Projects
 - ✔ C++ Calculator  
 - ✔ Beginner Practice Programs  
