@@ -33,7 +33,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prachi791)
+![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi791&show_icons=true)
 
 ---
 
