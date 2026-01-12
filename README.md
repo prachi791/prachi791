@@ -11,7 +11,7 @@
 ## 👩‍💻 About Me
 - Passionate about **coding & technology** 💡  
 - Building small projects to improve daily 📈  
-- Learning by doing, not just watching tutorials 💪  
+- Love to contribute and learn from seniors 🧠
 - Goal: Become a **skilled developer** & crack a tech role 🎯  
 
 ---
@@ -29,11 +29,7 @@
 
 ## 📊 GitHub Activity
 
-![Prachi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=react-dark)
-
-## 🔥 GitHub Streak
-
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi791&show_icons=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=github-dark)
 
 ---
 
@@ -48,7 +44,6 @@
 - Data Structures  
 - Object-Oriented Programming  
 - Git & GitHub  
-- Web Development  
 
 ---
 ## 🤝 Connect With Me
@@ -65,5 +60,6 @@
 
 <p align="center">
 ✨ <b>Consistency > Motivation</b> <br>
-🔥 <b>Daily progress matters!</b>
+🔥 <b>Daily progress matters!</b>  <br>
+❤️ <b>If you are also learning C++ or doing DSA in C++ then let's connect and learn together!</b>
 </p>
