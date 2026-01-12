@@ -12,7 +12,7 @@
 - Passionate about **coding & technology** 💡  
 - Building small projects to improve daily 📈  
 - Love to contribute and learn from seniors 🧠
-- Goal: Become a **skilled developer** & crack a tech role 🎯  
+- Goal: Become a **skilled developer** 🎯  
 - love to code and improve myself by using my own logic 🧠
 - currently completing **basics of C++** and will shortly move to **DSA** 🎯
   
