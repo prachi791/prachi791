@@ -2,8 +2,8 @@
 
 <p align="center">
 🎓 Computer Science Student <br>
-🚀 Learning C++ | Web Development | Problem Solving <br>
-📍 India
+🚀 Learning C++ | DSA | Problem Solving <br>
+📍 Ahmedabad,India
 </p>
 
 ---
@@ -13,11 +13,14 @@
 - Building small projects to improve daily 📈  
 - Love to contribute and learn from seniors 🧠
 - Goal: Become a **skilled developer** & crack a tech role 🎯  
-
+- love to code and improve myself by using my own logic 🧠
+- currently completing **basics of C++** and will shortly move to **DSA** 🎯
+  
 ---
 
 ## 🛠 Tech Stack
 <p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
