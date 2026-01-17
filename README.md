@@ -6,6 +6,9 @@
 📍 Ahmedabad,India
 </p>
 
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=prachi791&theme=dark)](https://git.io/streak-stats)
+
 <!--
 <div align="center">
 
