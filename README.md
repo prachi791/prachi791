@@ -9,7 +9,8 @@
 ---
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=prachi791&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=prachi791&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791)](https://git.io/streak-stats)
 
 </div>
 
