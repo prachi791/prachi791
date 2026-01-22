@@ -53,7 +53,8 @@
 ## 📌 Projects
 - ✔ C++ Calculator  
 - ✔ Beginner Practice Programs  
-- ✔ More projects coming soon 🚀  
+- ✔ More projects coming soon 🚀
+- Building my logic
 
 ---
 
