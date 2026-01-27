@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Computer Science Student <br>
 🚀 Learning C++ | DSA | Problem Solving <br>
-📍 Ahmedabad,India
+📍 Ahmedabad, India
 </p>
 
 ---
