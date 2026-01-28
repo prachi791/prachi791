@@ -10,9 +10,8 @@
 <div align="center">
   
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=prachi791&theme=dark)](https://git.io/streak-stats) -->
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791)]
-
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791&theme=dark)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791)] -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prachi791&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <!--
