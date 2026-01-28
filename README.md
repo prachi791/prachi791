@@ -12,7 +12,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=prachi791&theme=dark)](https://git.io/streak-stats) -->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791&theme=dark)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791)] -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prachi791&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi791&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi791&show_icons=true&theme=tokyonight)
 </div>
 
 <!--
