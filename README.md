@@ -1,4 +1,4 @@
-  <h1 align="center"> Hi 👋 I'm Prachi Modi 💻✨</h1>
+<h1 align="center"> Hi 👋 I'm Prachi Modi 💻✨</h1>
 
 <p align="center">
 🎓 Computer Science Student <br>
