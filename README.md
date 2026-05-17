@@ -23,31 +23,34 @@
 -->
 ---
 
-## 👩‍💻 About Me
-- Passionate about **coding & technology** 💡  
-- Building small projects to improve daily 📈  
-- Love to contribute and learn from seniors 🧠
-- Goal: Become a **skilled developer** 🎯  
-- love to code and improve myself by using my own logic 🧠
-- currently completing **basics of C++** and will shortly move to **DSA** 🎯
-  
----
+## 💡 Engineering Profile
 
-## 🛠 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+> ⚡ **Core Philosophy:** *Daily incremental steps yield compound returns over time. I focus on breaking down complex architectural problems and building clean, optimized logic from scratch.*
+
+### 🚀 Core Focus
+- **Algorithm Design:** Transitioning from advanced C++ fundamentals directly into complex Data Structures & Algorithms.
+- **First-Principles Thinking:** Focused on writing optimal solutions and understanding underlying concepts rather than tracking syntax.
+- **Open Source & Peer Sync:** Enthusiastic about collaborative problem-solving, code reviews, and optimization logic.
 
 ---
+
+## 🛠️ Tech Stack & Tooling
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/C++-24292e?style=flat-square&logo=c%2B%2B&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&logoColor=ffffff" /> |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=ffffff" /> |
+| **Web Development** | <img src="https://img.shields.io/badge/HTML5-24292e?style=flat-square&logo=html5&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/CSS3-24292e?style=flat-square&logo=css3&logoColor=ffffff" /> |
+| **AI Workspaces** | <img src="https://img.shields.io/badge/Gemini-24292e?style=flat-square&logo=google-gemini&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/ChatGPT-24292e?style=flat-square&logo=openai&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Copilot-24292e?style=flat-square&logo=github-copilot&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/Perplexity-24292e?style=flat-square&logo=perplexity&logoColor=ffffff" /> |
+
+---
+
 
 ## 📊 GitHub Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=Dracula)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=github-dark-graphtite&custom_title=Workspace%20Activity&color=FFB6C1&line=FFB6C1&point=ffffff&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
