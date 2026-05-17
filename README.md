@@ -55,19 +55,15 @@
 
 ---
 
-## 📌 Projects
-- ✔ C++ Calculator  
-- ✔ Beginner Practice Programs  
-- ✔ More projects coming soon 🚀
-- Building my logic
+## 📂 Featured Architectures
 
----
+> ### 🔑 **[Strivers-A2Z-DSA](https://github.com/prachi791/Strivers-A2Z-DSA)**
+> _A structured algorithm laboratory archive tracking daily complexity optimization and design patterns._
+> <font color="#FFB6C1"><b>C++20</b></font> • `DSA learning` • `Time: O(N)`
 
-## 📈 Currently Learning
-- Data Structures  
-- Object-Oriented Programming  
-- Git & GitHub  
-
+> ### 🧮 **C++ Calculator Application**
+> _A modular console framework exploring computational edge cases and structural OOP design patterns._
+> <font color="#FFB6C1"><b>C++ Fundamentals</b></font> • `Logic Labs` • `OOP Structure`
 ---
 ## 🤝 Connect With Me
 
