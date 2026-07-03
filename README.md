@@ -71,11 +71,11 @@ Core programming concepts, loops, arrays, functions and file handling.
 
 ---
 
-### ⚙️ C++ Practice
+### ⚙️ C++ Project on college management System
 
-Object-Oriented Programming, STL and DSA practice.
+Object-Oriented Programming, Project.
 
-🔗 **[View Repository](https://github.com/prachi791/C-Plus-Plus-Practice)**
+🔗 **[View Repository](https://github.com/prachi791/College-Management-System)**
 
 ---
 
@@ -83,7 +83,7 @@ Object-Oriented Programming, STL and DSA practice.
 
 Learning HTML, CSS and JavaScript by building responsive websites.
 
-🔗 **[View Repository](https://github.com/prachi791/Web-Development)**
+🔗 **[View Repository](https://github.com/prachi791/Web-Development-Framework-2026)**
 
 ---
 
@@ -91,13 +91,13 @@ Learning HTML, CSS and JavaScript by building responsive websites.
 
 My solutions and learning journey through the Striver A2Z DSA Sheet.
 
-🔗 **[View Repository](https://github.com/prachi791/Strivers-A2Z-DSA-Sheet)**
+🔗 **[View Repository](https://github.com/prachi791/Strivers-A2Z-DSA)**
 
 ---
 
 # 🏆 Achievements
 
-- ⭐ HackerRank 5⭐ in C++
+- ⭐ HackerRank C++ (⭐⭐⭐⭐⭐)
 - 🎓 Completed Coursera C++ course
 - 📚 Currently pursuing Coursera courses in Python, Data Structures and Web Development
 - 📖 Currently pursuing NPTEL certification
