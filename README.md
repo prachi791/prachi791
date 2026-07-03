@@ -1,84 +1,213 @@
-<h1 align="center"> Hi 👋 I'm Prachi Modi 💻✨</h1>
-
-<p align="center">
-🎓 Computer Science Student <br>
-🚀 Learning C++ | DSA | Problem Solving <br>
-📍 Ahmedabad, India 
-</p>
-
----
-<div align="center">
-  
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=prachi791&theme=dark)](https://git.io/streak-stats) -->
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791&theme=dark)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=prachi791)] -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prachi791&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prachi791&theme=highcontrast&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats) 
-</div>
-
-<!--
 <div align="center">
 
-  ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=prachi791&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%2392400e%22%2C%22waterColor%22%3A%22%2306b6d4%22%2C%22streakColor%22%3A%22%230ea5e9%22%7D)
+<img src="YOUR_CUSTOM_BANNER_HERE" width="100%" />
+
+# Hi, I'm Prachi Modi 👋
+
+### Computer Science Student • Full Stack Developer in Progress • UI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Beautiful+Web+Applications;Learning+Full+Stack+Development;Solving+DSA+Problems;Always+Learning+Something+New" />
+
+
 </div>
--->
----
-
-## 💡 Engineering Profile
-
-> ⚡ **Core Philosophy:** *Daily incremental steps yield compound returns over time. I focus on breaking down complex architectural problems and building clean, optimized logic from scratch.*
-
-### 🚀 Core Focus
-- **Algorithm Design:** Transitioning from advanced C++ fundamentals directly into complex Data Structures & Algorithms.
-- **First-Principles Thinking:** Focused on writing optimal solutions and understanding underlying concepts rather than tracking syntax.
-- **Open Source & Peer Sync:** Enthusiastic about collaborative problem-solving, code reviews, and optimization logic.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+# 🌸 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/C++-24292e?style=flat-square&logo=c%2B%2B&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&logoColor=ffffff" /> |
-| **Version Control** | <img src="https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=ffffff" /> |
-| **Web Development** | <img src="https://img.shields.io/badge/HTML5-24292e?style=flat-square&logo=html5&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/CSS3-24292e?style=flat-square&logo=css3&logoColor=ffffff" /> |
-| **AI Workspaces** | <img src="https://img.shields.io/badge/Gemini-24292e?style=flat-square&logo=google-gemini&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/ChatGPT-24292e?style=flat-square&logo=openai&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Claude-24292e?style=flat-square&logo=probot&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/Copilot-24292e?style=flat-square&logo=github-copilot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Perplexity-24292e?style=flat-square&logo=perplexity&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/Kimi-24292e?style=flat-square&logo=airplay&logoColor=ffffff" /> <img src="https://img.shields.io/badge/DeepSeek-24292e?style=flat-square&logo=deepseek&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/Cursor-24292e?style=flat-square&logo=cursor&logoColor=ffffff" /> |
-| **Coding Hubs** | <img src="https://img.shields.io/badge/LeetCode-24292e?style=flat-square&logo=leetcode&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/HackerRank-24292e?style=flat-square&logo=hackerrank&logoColor=ffffff" /> <img src="https://img.shields.io/badge/CodeChef-24292e?style=flat-square&logo=codechef&logoColor=FFB6C1" /> <img src="https://img.shields.io/badge/Codeforces-24292e?style=flat-square&logo=codeforces&logoColor=ffffff" /> |
+```yaml
+name: Prachi Modi
+
+education:
+  - B.Tech CSE
+  - CSPIT, CHARUSAT
+
+currently_learning:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - DSA
+
+interests:
+  - Web Development
+  - UI Design
+  - Open Source
+
+goal:
+  Build software that solves real problems.
+```
 
 ---
 
+# ⚡ Tech Stack
 
-## 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=github-dark-graphtite&custom_title=Workspace%20Activity&color=FFB6C1&line=FFB6C1&point=ffffff&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Activity Graph" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman&perline=5"/>
+
+</div>
 
 ---
 
-## 📂 Featured Architectures
+# 📌 Current Journey
 
-> ### 🔑 **[Strivers-A2Z-DSA](https://github.com/prachi791/Strivers-A2Z-DSA)**
-> _A structured algorithm laboratory archive tracking daily complexity optimization and design patterns._
-> <font color="#FFB6C1"><b>C++20</b></font> • `DSA learning` • `Time: O(N)`
+```text
+2026 Roadmap
 
-> ### 🧮 **C++ Calculator Application**
-> _A modular console framework exploring computational edge cases and structural OOP design patterns._
-> <font color="#FFB6C1"><b>C++ Fundamentals</b></font> • `Logic Labs` • `OOP Structure`
+██████████░░░░░░ HTML
+██████████░░░░░░ CSS
+████████░░░░░░░░ JavaScript
+████░░░░░░░░░░░░ React
+██░░░░░░░░░░░░░░ Node.js
+██░░░░░░░░░░░░░░ MongoDB
+██████░░░░░░░░░░ DSA
+```
+
 ---
-## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/prachimodi-tech" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💰 Expense Tracker
+
+Responsive expense management application.
+
+✨ Charts
+
+✨ Dark Mode
+
+✨ Local Storage
+
+✨ Mobile Friendly
+
+</td>
+
+<td>
+
+<img src="YOUR_SCREENSHOT"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="YOUR_SCREENSHOT"/>
+
+</td>
+
+<td>
+
+## 🍔 Restaurant Website
+
+Modern responsive restaurant UI.
+
+✨ Reservation
+
+✨ Gallery
+
+✨ Responsive
+
+✨ Animations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## ❤️ Lifeline
+
+Health & Well-being website.
+
+Built for NSS.
+
+</td>
+
+<td>
+
+<img src="YOUR_SCREENSHOT"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prachi791&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi791&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prachi791&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi791&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 Achievements
+
+🏅 Coursera
+
+🏅 NPTEL
+
+🏅 HackerRank C++ ⭐⭐⭐⭐⭐
+
+🏅 Open Source
+
+---
+
+# 🌱 Currently Building
+
+✨ Portfolio Website
+
+✨ Expense Tracker
+
+✨ DSA Repository
+
+✨ React Dashboard
+
+---
+
+# 📬 Connect
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prachimoditech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
+</div>
 
 ---
 
-<p align="center">
-✨ <b>Consistency > Motivation</b> <br>
-🔥 <b>Daily progress matters!</b>  <br>
-❤️ <b>If you are also learning C++ or doing DSA in C++ then let's connect and learn together!</b>
-</p>
+<div align="center">
+
+## ⭐ "Build. Learn. Improve. Repeat."
+
+</div>
